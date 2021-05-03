@@ -8,11 +8,11 @@ The 87 version of google is required to run the program. Before running the prog
 
 :pushpin: Some images from the project:
 <br><br>
-<a href="https://resimlink.com/9mQArX" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/9mQArX.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
-<a href="https://resimlink.com/SWc5" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/SWc5.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
-<a href="https://resimlink.com/pDXfo1z" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/pDXfo1z.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
-<a href="https://resimlink.com/EaHtZV" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/EaHtZV.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
-<a href="https://resimlink.com/ic0zDN" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/ic0zDN.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
+<a href="https://resimlink.com/9mQArX" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/9mQArX.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a><br><br>
+<a href="https://resimlink.com/SWc5" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/SWc5.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a><br><br>
+<a href="https://resimlink.com/pDXfo1z" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/pDXfo1z.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a><br><br>
+<a href="https://resimlink.com/EaHtZV" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/EaHtZV.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a><br><br>
+<a href="https://resimlink.com/ic0zDN" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/ic0zDN.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a><br><br>
 <br>
 
 <br>
