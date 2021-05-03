@@ -3,7 +3,7 @@
 <h2>
 Python
 </h2>
-The 87 version of google is required to run the program. Before running the program, fill in the username, username1 and password sections in the ` instaUserInfo.py ` file. Before running the program, specify the file path in the section ` self.browser = webdriver.Chrome (executable_path =" C: \ Program Files (x86) \ Google \ Chrome \ Application \ chromedriver.exe ") `. <br>
+The 87 version of google is required to run the program. Before running the program, fill in the username, username1 and password sections in the ``` instaUserInfo.py ``` file. Before running the program, specify the file path in the section ``` self.browser = webdriver.Chrome (executable_path =" C: \ Program Files (x86) \ Google \ Chrome \ Application \ chromedriver.exe ")```. <br>
 <br>
 
 :pushpin: Some images from the project:
