@@ -185,7 +185,7 @@ print("5-Kullanıcıyı takipten çıkar")
 print("6-Kullanıcıyı takip et")
 secim = int(input())
 if secim == 1:
-    message=inpput("Mesajınızı giriniz: ")
+    message=input("Mesajınızı giriniz: ")
     insta.signIn()
     insta.sendMessage(message)
 elif secim == 2:
