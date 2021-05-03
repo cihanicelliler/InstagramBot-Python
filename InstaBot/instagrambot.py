@@ -148,7 +148,7 @@ class Instagram:
                     for item in notFollowing:
                         file.write(item+"")
 
-    def sendMessage(self):
+    def sendMessage(self,message):
         time.sleep(2)
         self.browser.get("https://www.instagram.com/direct/inbox/")
         time.sleep(2)
@@ -165,7 +165,7 @@ class Instagram:
             messageButton = self.browser.find_element_by_xpath(
                 "/html/body/div[1]/section/div/div[2]/div/div/div[2]/div[2]/div/div[2]/div/div/div[2]/textarea").click()
             self.browser.find_element_by_xpath(
-                "//*[@id='react-root']/section/div/div[2]/div/div/div[2]/div[2]/div/div[2]/div/div/div[2]/textarea").send_keys("CcC TÜRKLER GELİYOR")
+                "//*[@id='react-root']/section/div/div[2]/div/div/div[2]/div[2]/div/div[2]/div/div/div[2]/textarea").send_keys(message)
             self.browser.find_element_by_xpath(
                 "//*[@id='react-root']/section/div/div[2]/div/div/div[2]/div[2]/div/div[2]/div/div/div[2]/textarea").send_keys(Keys.ENTER)
             i += 1
@@ -185,8 +185,9 @@ print("5-Kullanıcıyı takipten çıkar")
 print("6-Kullanıcıyı takip et")
 secim = int(input())
 if secim == 1:
+    message=inpput("Mesajınızı giriniz: ")
     insta.signIn()
-    insta.sendMessage()
+    insta.sendMessage(message)
 elif secim == 2:
     insta.signIn()
     insta.getFollowers()
