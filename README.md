@@ -32,3 +32,4 @@ Thank you for taking your time to read. You can contact me from my accounts belo
 ![alt text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 </a>
+ 
