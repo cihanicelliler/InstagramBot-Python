@@ -153,7 +153,7 @@ class Instagram:
         self.browser.get("https://www.instagram.com/direct/inbox/")
         time.sleep(2)
         notNowButton = self.browser.find_element_by_xpath(
-            "/html/body/div[4]/div/div/div/div[3]/button[2]")
+            "/html/body/div[3]/div/div/div/div[3]/button[2]")
         notNowButton.click()
         time.sleep(5)
         clickUser = self.browser.find_element_by_xpath(
